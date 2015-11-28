@@ -141,7 +141,7 @@ submission_filename = 'automl_sample_submission_' + the_date
 # Use default location for the input and output data:
 # If no arguments to run.py are provided, this is where the data will be found
 # and the results written to. Change the root_dir to your local directory.
-root_dir = "/media/jajo/USB3SSD/codaauto/Starting_kit/"
+root_dir = "/my_root/"
 default_input_dir = root_dir + "sample_input" # "scoring_input0/dorothea"
 default_output_dir = root_dir + "scoring_input/res"
 
